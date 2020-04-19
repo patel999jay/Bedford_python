@@ -1,1 +1,3 @@
-# Bedford_Bathymatry using python
+# Bedford Bathymatry using python
+
+![picture alt](bedford-basin.png)
